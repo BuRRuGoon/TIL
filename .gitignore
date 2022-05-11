@@ -1,0 +1,7 @@
+bin/
+obj/
+.vscode/
+Program.cs
+TIL.csproj
+TIL/CodingTest/Copy.md
+CodingTest/Copy.md
