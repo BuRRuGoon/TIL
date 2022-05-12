@@ -20,12 +20,12 @@
 [C#_2588](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_2588(%EA%B3%B1%EC%85%88).md)  
 
 ### BAEKJOON02
-[C#_1330]()  
-[C#_2480]()  
-[C#_2525]()  
-[C#_2753]()  
-[C#_2884]()  
-[C#_9498]()  
-[C#_14681]()  
+[C#_1330](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_1330(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
+[C#_2480](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_2480(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
+[C#_2525](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_2525(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
+[C#_2753](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_2753(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
+[C#_2884](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_2884(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
+[C#_9498](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_9498(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
+[C#_14681](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_14681(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
 
 
