@@ -19,5 +19,13 @@
 [C#_10430](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10430(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
 [C#_2588](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_2588(%EA%B3%B1%EC%85%88).md)  
 
+### BAEKJOON02
+[C#_1330]()  
+[C#_2480]()  
+[C#_2525]()  
+[C#_2753]()  
+[C#_2884]()  
+[C#_9498]()  
+[C#_14681]()  
 
 
