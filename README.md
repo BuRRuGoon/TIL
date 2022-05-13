@@ -2,7 +2,8 @@
 ## C#
 [[Main()_CS7022_경고문]](https://projectru.tistory.com/3)  
 [[String 앞에 @]](https://projectru.tistory.com/4)  
-[[GetNumericValue()]](https://projectru.tistory.com/5)  
+[[GetNumericValue()]](https://projectru.tistory.com/5) 
+[[StringBuilder()]]
 
 
 ## 코딩테스트
