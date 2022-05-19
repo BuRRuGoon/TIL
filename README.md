@@ -4,7 +4,7 @@
 [[String 앞에 @]](https://projectru.tistory.com/4)  
 [[GetNumericValue()]](https://projectru.tistory.com/5) 
 [[StringBuilder()]]
-
+[[IndexOf()]]
 
 ## 코딩테스트
 ### BAEKJOON01 - 입력
@@ -53,3 +53,13 @@
 [C#_4344](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_4344.md)  
 [C#_8958](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_8958.md)  
 [C#_10818](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_10818.md)  
+
+### BAEKJOON05 - 함수
+[C#_1065](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_1065.md)  
+[C#_4673](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_4673.md)  
+[Python_15596](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/Python_15596.md)  
+
+### BAEKJOON06 - 문자열
+[C#_10809](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_10809.md)  
+[C#_11654](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_11654.md)  
+[C#_11720](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_11720.md)  
