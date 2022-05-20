@@ -46,20 +46,25 @@
 [C#_15552](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_15552(%EB%B0%98%EB%B3%B5%EB%AC%B8).md)  
 
 ### BAEKJOON04 - 1차원 배열
-[C#_1546](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_1546.md)  
-[C#_2562](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_2562.md)  
-[C#_2577](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_2577.md)  
-[C#_3052](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_3052.md)  
-[C#_4344](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_4344.md)  
-[C#_8958](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_8958.md)  
-[C#_10818](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_10818.md)  
+[C#_1546](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_1546.md)  
+[C#_2562](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_2562.md)  
+[C#_2577](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_2577.md)  
+[C#_3052](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_3052.md)  
+[C#_4344](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_4344.md)  
+[C#_8958](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_8958.md)  
+[C#_10818](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_10818.md)  
 
 ### BAEKJOON05 - 함수
-[C#_1065](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_1065.md)  
-[C#_4673](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_4673.md)  
-[Python_15596](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/Python_15596.md)  
+[C#_1065](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON05/C%23_1065.md)  
+[C#_4673](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON05/C%23_4673.md)  
+[Python_15596](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON05/Python_15596.md)  
 
 ### BAEKJOON06 - 문자열
-[C#_10809](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_10809.md)  
-[C#_11654](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_11654.md)  
-[C#_11720](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_11720.md)  
+[C#_1152](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_1152.md)  
+[C#_1157](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_1157.md)  
+[C#_2675](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2675.md)  
+[C#_2908](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2908.md)  
+[C#_5622](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_5622.md)  
+[C#_10809](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_10809.md)  
+[C#_11654](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_11654.md)  
+[C#_11720](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_11720.md)  
