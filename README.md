@@ -64,6 +64,7 @@
 [C#_1157](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_1157.md)  
 [C#_2675](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2675.md)  
 [C#_2908](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2908.md)  
+[C#_2941](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2941.md)  
 [C#_5622](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_5622.md)  
 [C#_10809](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_10809.md)  
 [C#_11654](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_11654.md)  
