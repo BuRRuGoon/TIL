@@ -62,6 +62,7 @@
 ### BAEKJOON06 - 문자열
 [C#_1152](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_1152.md)  
 [C#_1157](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_1157.md)  
+[C#_1316](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_1316.md)  
 [C#_2675](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2675.md)  
 [C#_2908](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2908.md)  
 [C#_2941](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_2941.md)  
