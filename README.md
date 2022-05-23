@@ -70,3 +70,7 @@
 [C#_10809](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_10809.md)  
 [C#_11654](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_11654.md)  
 [C#_11720](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_11720.md)  
+
+### BAEKJOON07 - 수학
+[C#_1152](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_1712.md)  
+
