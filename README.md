@@ -72,5 +72,10 @@
 [C#_11720](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON06/C%23_11720.md)  
 
 ### BAEKJOON07 - 수학
-[C#_1152](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_1712.md)  
+[C#_1193](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_1193.md)  
+[C#_1712](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_1712.md)  
+[C#_2292](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2292.md)  
+[C#_2775](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2775.md)  
+[C#_2869](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2869.md)  
+[C#_10250](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_10250.md)  
 
