@@ -76,6 +76,9 @@
 [C#_1712](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_1712.md)  
 [C#_2292](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2292.md)  
 [C#_2775](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2775.md)  
+[C#_2839(실패)](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2839.md)  
 [C#_2869](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_2869.md)  
 [C#_10250](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_10250.md)  
+[C#_10757](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_10757.md)  
 
+### BAEKJOON08 - 수학2
