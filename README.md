@@ -2,9 +2,12 @@
 ## C#
 [[Main()_CS7022_경고문]](https://projectru.tistory.com/3)  
 [[String 앞에 @]](https://projectru.tistory.com/4)  
-[[GetNumericValue()]](https://projectru.tistory.com/5) 
-[[StringBuilder()]]
-[[IndexOf()]]
+[[GetNumericValue()]](https://projectru.tistory.com/5)  
+[[StringBuilder()]]  
+[[IndexOf()]]  
+
+## 알고리즘
+[[에라토스테네스의 체 (소수)]]  
 
 ## 코딩테스트
 ### BAEKJOON01 - 입력
@@ -82,3 +85,7 @@
 [C#_10757](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON07/C%23_10757.md)  
 
 ### BAEKJOON08 - 수학2
+[C#_1929](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_1929.md)  
+[C#_1978](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_1978.md)  
+[C#_2581](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_2581.md)  
+[C#_11653](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_11653.md)  
