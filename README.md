@@ -7,7 +7,7 @@
 [[IndexOf()]]  
 
 ## 알고리즘
-[[에라토스테네스의 체 (소수)]]  
+[[에라토스테네스의 체 (소수)]](https://projectru.tistory.com/6) 
 
 ## 코딩테스트
 ### BAEKJOON01 - 입력
