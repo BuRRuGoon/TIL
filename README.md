@@ -88,4 +88,7 @@
 [C#_1929](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_1929.md)  
 [C#_1978](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_1978.md)  
 [C#_2581](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_2581.md)  
+[C#_4948](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_4948.md)  
+[C#_9020](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_9020.md)  
 [C#_11653](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_11653.md)  
+
