@@ -3,11 +3,13 @@
 [[Main()_CS7022_경고문]](https://projectru.tistory.com/3)  
 [[String 앞에 @]](https://projectru.tistory.com/4)  
 [[GetNumericValue()]](https://projectru.tistory.com/5)  
-[[StringBuilder()]]  
-[[IndexOf()]]  
+[[StringBuilder(정리예정)]]  
+[[IndexOf(정리예정)]]  
 
 ## 알고리즘
 [[에라토스테네스의 체 (소수)]](https://projectru.tistory.com/6) 
+[재귀 알고리즘 (정리예정)]  
+
 
 ## 코딩테스트
 ### BAEKJOON01 - 입력
@@ -91,4 +93,10 @@
 [C#_4948](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_4948.md)  
 [C#_9020](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_9020.md)  
 [C#_11653](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_11653.md)  
+
+### BAEKJOON08 - 재귀함수
+[C#_2447](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_2447.md)  
+[C#_10870](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_10870.md)  
+[C#_10872](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_10872.md)  
+[C#_17478](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_17478.md)  
 
