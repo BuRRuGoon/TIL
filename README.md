@@ -7,8 +7,8 @@
 [[IndexOf(정리예정)]]  
 
 ## 알고리즘
-[[에라토스테네스의 체 (소수)]](https://projectru.tistory.com/6) 
-[재귀 알고리즘 (정리예정)]  
+[[에라토스테네스의 체 (소수)]](https://projectru.tistory.com/6)  
+[[하노이의 탑 (재귀 함수)]]
 
 
 ## 코딩테스트
@@ -98,5 +98,7 @@
 [C#_2447](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_2447.md)  
 [C#_10870](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_10870.md)  
 [C#_10872](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_10872.md)  
+[C#_11729](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_11729.md)  
 [C#_17478](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON08/C%23_17478.md)  
+
 
