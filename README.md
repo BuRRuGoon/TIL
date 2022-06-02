@@ -5,10 +5,18 @@
 [[GetNumericValue()]](https://projectru.tistory.com/5)  
 [[StringBuilder(정리예정)]]  
 [[IndexOf(정리예정)]]  
+[[C#의 입출력(정리예정)]]  
 
 ## 알고리즘
 [[에라토스테네스의 체 (소수)]](https://projectru.tistory.com/6)  
 [[하노이의 탑 (재귀 함수)]]  
+[[선택 정렬(Selection_Sort)]]]  
+[[거품 정렬(Bubble_Sort)]]]  
+[[삽입 정렬(Selection_Sort)]]  
+[[병합 정렬(Merge_Sort)]]  
+[[힙 정렬(Heap_Sort)]]  
+[[퀵 정렬(Quick_Sort)]]  
+[[카운팅 정렬(Counting_Sort)]]  
 
 
 
@@ -112,5 +120,6 @@
 
 ### BAEKJOON11 - 정렬
 [C#_2750](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON11/C%23_2750.md)  
-[C#_7751](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON11/C%23_2751.md)  
+[C#_2751](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON11/C%23_2751.md)  
+[C#_10989](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON11/C%23_10989.md)  
 
