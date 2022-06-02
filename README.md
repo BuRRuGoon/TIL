@@ -16,7 +16,7 @@
 [[병합 정렬(Merge_Sort)]]  
 [[힙 정렬(Heap_Sort)]]  
 [[퀵 정렬(Quick_Sort)]]  
-[[카운팅 정렬(Counting_Sort)]]  
+[[카운팅 정렬(Counting_Sort)]](https://projectru.tistory.com/7)  
 
 
 
