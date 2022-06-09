@@ -142,3 +142,11 @@
 [C#_10816](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON12/C%23_10816.md)  
 [C#_11478](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON12/C%23_11478.md)  
 [C#_14425](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON12/C%23_14425.md)  
+
+### BAEKJOON13 - 기하
+[C#_1085](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON13/C%23_1085.md)  
+[C#_2477](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON13/C%23_2477.md)  
+[C#_3009](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON13/C%23_3009.md)  
+[C#_3053](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON13/C%23_3053.md)  
+[C#_4153](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON13/C%23_4153.md)  
+
