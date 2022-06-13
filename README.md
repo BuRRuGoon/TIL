@@ -160,3 +160,5 @@
 [C#_2981](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_2981.md)  
 [C#_3036](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_3036.md)  
 [C#_5086](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_5086.md)  
+[C#_11050](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_11050.md)  
+
