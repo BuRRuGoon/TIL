@@ -7,7 +7,7 @@
 [[IndexOf(정리예정)]]  
 [[C#의 입출력(정리예정)]]  
 
-## 알고리즘
+## 알고리즘 (해당 문서는 복습을 위해 작성)
 [[에라토스테네스의 체 (소수)]](https://projectru.tistory.com/6)  
 [[하노이의 탑 (재귀 함수)]]  
 [[선택 정렬(Selection_Sort)]]]  
@@ -18,6 +18,7 @@
 [[퀵 정렬(Quick_Sort)]]  
 [[카운팅 정렬(Counting_Sort)]](https://projectru.tistory.com/7)  
 [[상/하한선 알고리즘 (Upper/Lower_Bound)]]  
+[[백트래킹 알고리즘 (Backtracking)]]  
 
 
 
@@ -167,3 +168,9 @@
 [C#_11050](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_11050.md)  
 [C#_11051](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_11051.md)  
 
+
+### BAEKJOON15 - 백트래킹
+[C#_15649](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15649.md)  
+[C#_15650](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15650.md)  
+[C#_15651](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15651.md)  
+[C#_15652](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15652.md)  
