@@ -170,6 +170,8 @@
 
 
 ### BAEKJOON15 - 백트래킹
+[C#_2580](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_2580.md)  
+[C#_9663](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_9663.md)  
 [C#_15649](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15649.md)  
 [C#_15650](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15650.md)  
 [C#_15651](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_15651.md)  
