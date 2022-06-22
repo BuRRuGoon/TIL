@@ -181,8 +181,10 @@
 
 
 ### BAEKJOON16 - 동적 계획법
+[C#_1149](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1149.md)  
 [C#_1904](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1904.md)  
 [C#_1912](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1912.md)  
+[C#_1932](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1932.md)  
 [C#_9184](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_9184.md)  
 [C#_9461](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_9461.md)  
 [C#_24416](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_24416.md)  
