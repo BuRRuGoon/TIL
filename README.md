@@ -19,6 +19,7 @@
 [[카운팅 정렬(Counting_Sort)]](https://projectru.tistory.com/7)  
 [[상/하한선 알고리즘 (Upper/Lower_Bound)]]  
 [[백트래킹 알고리즘 (Backtracking)]]  
+[[다이나믹 프로그래밍 (DP)]]  
 
 
 
@@ -185,6 +186,7 @@
 [C#_1904](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1904.md)  
 [C#_1912](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1912.md)  
 [C#_1932](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_1932.md)  
+[C#_2579](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_2579.md)  
 [C#_9184](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_9184.md)  
 [C#_9461](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_9461.md)  
 [C#_24416](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON15/C%23_24416.md)  
