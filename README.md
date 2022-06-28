@@ -202,9 +202,14 @@
 
 ### BAEKJOON17 - 누적합
 [C#_2559](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON17/C%23_2559.md)  
+[C#_10986](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON17/C%23_10986.md)  
 [C#_11659](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON17/C%23_11659.md)  
+[C#_11660](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON17/C%23_11660.md)  
+[C#_16139](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON17/C%23_16139.md)  
 
 
 ### BAEKJOON_OTHER - DP추가문제
 [C#_1003](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_1003.md)  
+[C#_9095](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_9095.md)  
+[C#_11726](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_11726.md)  
 
