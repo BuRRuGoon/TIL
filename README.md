@@ -208,6 +208,14 @@
 [C#_16139](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON17/C%23_16139.md)  
 
 
+### BAEKJOON18 - 그리디(탐욕) 알고리즘
+[C#_1541](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON18/C%23_1541.md)  
+[C#_1931](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON18/C%23_1931.md)  
+[C#_11047](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON18/C%23_11047.md)  
+[C#_11399](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON18/C%23_11399.md)  
+[C#_13305](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON18/C%23_13305.md)  
+
+
 ### BAEKJOON_OTHER - DP추가문제
 [C#_1003](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_1003.md)  
 [C#_9095](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_9095.md)  
