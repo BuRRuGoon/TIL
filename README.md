@@ -216,6 +216,14 @@
 [C#_13305](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON18/C%23_13305.md)  
 
 
+### BAEKJOON19 - 스택 알고리즘
+[C#_1874](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_1874.md)  
+[C#_1931](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_1931.md)  
+[C#_9012](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_9012.md)  
+[C#_10773](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10773.md)  
+[C#_10828](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10828.md)  
+
+
 ### BAEKJOON_OTHER - DP추가문제
 [C#_1003](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_1003.md)  
 [C#_9095](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_9095.md)  
