@@ -222,6 +222,7 @@
 [C#_9012](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_9012.md)  
 [C#_10773](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10773.md)  
 [C#_10828](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10828.md)  
+[C#_17298](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10828.md)  
 
 
 ### BAEKJOON_OTHER - DP추가문제
