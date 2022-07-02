@@ -167,7 +167,7 @@
 [C#_5086](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_5086.md)  
 [C#_9375](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_9375.md)  
 [C#_11050](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_11050.md)  
-[C#_11051](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_11051.md)  
+[C#_11051](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON14/C%23_11051.md)   
 
 
 ### BAEKJOON15 - 백트래킹
@@ -223,6 +223,11 @@
 [C#_10773](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10773.md)  
 [C#_10828](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10828.md)  
 [C#_17298](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10828.md)  
+
+### BAEKJOON20 - 큐/덱 알고리즘
+[C#_2164](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_2164.md)  
+[C#_11866](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_11866.md)  
+[C#_18258](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_18258.md)  
 
 
 ### BAEKJOON_OTHER - DP추가문제
