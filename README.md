@@ -225,6 +225,7 @@
 [C#_17298](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON19/C%23_10828.md)  
 
 ### BAEKJOON20 - 큐/덱 알고리즘
+[C#_1966](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_1966.md)  
 [C#_2164](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_2164.md)  
 [C#_11866](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_11866.md)  
 [C#_18258](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_18258.md)  
