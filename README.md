@@ -233,11 +233,12 @@
 [C#_11866](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_11866.md)  
 [C#_18258](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON20/C%23_18258.md)  
 
-### BAEKJOON21 - 큐/덱 알고리즘
+### BAEKJOON21 - 분할 정복 알고리즘
 [C#_1629](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_1629.md)  
 [C#_1780](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_1780.md)  
 [C#_1992](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_1992.md)  
 [C#_2630](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_2630.md)  
+[C#_11401](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_11401.md)  
 
 
 ### BAEKJOON_OTHER - DP추가문제
