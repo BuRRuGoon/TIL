@@ -20,6 +20,7 @@
 [[상/하한선 알고리즘 (Upper/Lower_Bound)]]  
 [[백트래킹 알고리즘 (Backtracking)]]  
 [[다이나믹 프로그래밍 (DP)]]  
+[[슈트라센 알고리즘 (Strassen Alogrithm)]]  
 
 
 
@@ -238,6 +239,7 @@
 [C#_1780](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_1780.md)  
 [C#_1992](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_1992.md)  
 [C#_2630](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_2630.md)  
+[C#_2740](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_2740.md)  
 [C#_11401](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_11401.md)  
 
 
