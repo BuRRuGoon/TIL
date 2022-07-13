@@ -245,9 +245,14 @@
 [C#_11401](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_11401.md)  
 [C#_11444](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON21/C%23_11444.md)  
 
+### BAEKJOON22 - 이분 탐색
+[C#_11444](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON22/C%23_1920.md)  
+
+
 
 ### BAEKJOON_OTHER - DP추가문제
 [C#_1003](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_1003.md)  
 [C#_9095](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_9095.md)  
 [C#_11726](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_11726.md)  
 
+### BAEKJOON_OTHER - 분할 정복 알고리즘 추가문제
