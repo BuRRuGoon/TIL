@@ -22,8 +22,8 @@
 [[다이나믹 프로그래밍 (DP)]]  
 [[슈트라센 알고리즘 (Strassen Alogrithm)]]  
 
-
-
+## 게임 코딩 관련 문서
+[[게임 코딩 문서]](https://github.com/BuRRuGoon/TIL/blob/main/GameCoding/GameCoding.md)
 
 
 ## 코딩테스트
