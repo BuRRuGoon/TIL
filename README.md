@@ -263,6 +263,7 @@
 ### BAEKJOON25 - DFS/BFS  
 [C#_1012](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON25/C%23_1012.md)  
 [C#_1260](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON25/C%23_1260.md)  
+[C#_2178](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON25/C%23_2178.md)  
 [C#_2606](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON25/C%23_2606.md)  
 [C#_2607](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON25/C%23_2667.md)  
 [C#_24444](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON25/C%23_24444.md)  
