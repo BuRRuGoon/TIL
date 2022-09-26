@@ -3,6 +3,7 @@
 [[Main()_CS7022_경고문]](https://projectru.tistory.com/3)  
 [[String 앞에 @]](https://projectru.tistory.com/4)  
 [[GetNumericValue()]](https://projectru.tistory.com/5)  
+[[Index from end operator]](https://projectru.tistory.com/8)  
 [[StringBuilder(정리예정)]]  
 [[IndexOf(정리예정)]]  
 [[C#의 입출력(정리예정)]]  
@@ -28,17 +29,18 @@
 
 ## 코딩테스트
 ### BAEKJOON01 - 입력
-[C#_10171](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/C%23_10171(%EC%B6%9C%EB%A0%A5).md)  
-[C#_25083](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/C%23_25083(%EC%B6%9C%EB%A0%A5).md)  
 [C#_1000](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/C%23_1000(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
 [C#_1001](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_1001(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
-[C#_10998](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10998(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
 [C#_1008](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_1008(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
-[C#_10926](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10926(%EB%AC%B8%EC%9E%90%EC%9E%85%EB%A0%A5).md)  
-[C#_10869](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10869(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
-[C#_18108](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_18108(%EB%AC%B8%EC%9E%90%EC%9E%85%EB%A0%A5).md)  
-[C#_10430](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10430(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
 [C#_2588](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_2588(%EA%B3%B1%EC%85%88).md)  
+[C#_3003](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_3003.md)  
+[C#_10171](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/C%23_10171(%EC%B6%9C%EB%A0%A5).md)  
+[C#_10430](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10430(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
+[C#_10869](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10869(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
+[C#_10926](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10926(%EB%AC%B8%EC%9E%90%EC%9E%85%EB%A0%A5).md)  
+[C#_10998](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_10998(%EC%A0%95%EC%88%98%EC%9E%85%EB%A0%A5).md)  
+[C#_18108](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON01/C%23_18108(%EB%AC%B8%EC%9E%90%EC%9E%85%EB%A0%A5).md)  
+[C#_25083](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/C%23_25083(%EC%B6%9C%EB%A0%A5).md)  
 
 ### BAEKJOON02 - 조건문
 [C#_1330](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON02/C%23_1330(%EC%A1%B0%EA%B1%B4%EB%AC%B8).md)  
@@ -64,6 +66,7 @@
 [C#_11021](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_11021(%EB%B0%98%EB%B3%B5%EB%AC%B8).md)  
 [C#_11022](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_11022(%EB%B0%98%EB%B3%B5%EB%AC%B8).md)  
 [C#_15552](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_15552(%EB%B0%98%EB%B3%B5%EB%AC%B8).md)  
+[C#_26304](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON03/C%23_25304(%EB%B0%98%EB%B3%B5%EB%AC%B8).md)  
 
 ### BAEKJOON04 - 1차원 배열
 [C#_1546](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_1546.md)  
