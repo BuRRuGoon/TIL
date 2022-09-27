@@ -118,6 +118,7 @@
 [C#_10872](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON09/C%23_10872.md)  
 [C#_11729](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON09/C%23_11729.md)  
 [C#_17478](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON09/C%23_17478.md)  
+[C#_17478](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON09/C%23_25501.md)  
 
 ### BAEKJOON10 - 브루트 포스
 [C#_1018(미해결)](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON10/C%23_1028.md)  
