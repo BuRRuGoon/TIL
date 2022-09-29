@@ -10,8 +10,10 @@
 [[PatternCooler(패턴 제작)]](https://www.patterncooler.com/)  
 [[Pixlr(웹 사진 에디터)]](https://pixlr.com/kr/e/)  
 [[Mp3cut(간단한 사운드 편집)]](https://mp3cut.net/ko/)  
+[[Z-Library(무료 ebook 도서관)]](https://ko.z-lib.org/)  
 [[리소스뱅크(게임 리소스 공유 플랫폼)]](https://resourcebank.or.kr/index.php)  
 [[오픈튜토리얼스(무료 강의 모음)]](https://www.opentutorials.org/)  
+[[언리얼엔진5 스터디(일본 언리얼엔진 학습 지원)]](https://ue5study.com/)  
 
 영리목적으로 사용 불가 토이 프로젝트할때만 사용  
 [[Spriters-Resource(게임 스프라이트 리소스)]](https://www.spriters-resource.com/)  
