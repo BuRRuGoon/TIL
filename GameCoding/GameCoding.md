@@ -9,6 +9,7 @@
 [[Sketchfab(3D Model)]](https://sketchfab.com/)  
 [[PatternCooler(패턴 제작)]](https://www.patterncooler.com/)  
 [[Pixlr(웹 사진 에디터)]](https://pixlr.com/kr/e/)  
+[[NovelAI (이미지 생성 AI)]](https://novelai.net/)
 [[Mp3cut(간단한 사운드 편집)]](https://mp3cut.net/ko/)  
 [[Z-Library(무료 ebook 도서관)]](https://ko.z-lib.org/)  
 [[리소스뱅크(게임 리소스 공유 플랫폼)]](https://resourcebank.or.kr/index.php)  
