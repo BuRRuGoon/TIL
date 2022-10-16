@@ -284,4 +284,10 @@
 [C#_11726](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_11726.md)  
 
 
-### BAEKJOON_OTHER/BinarySearch - 분할 정복 알고리즘 추가문제
+### CondinGame - PUZZLE
+#### Easy
+[TEMPERATURE](CodinGame/Puzzle/TEMPERATURES.md)
+[UNARY](CodinGame/Puzzle/UNARY.md)
+
+#### Medium
+[DEATH_FIRST_SEARCH_EP1](CodinGame/Puzzle/DEATH_FIRST_SEARCH_EP1.md)

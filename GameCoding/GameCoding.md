@@ -31,5 +31,3 @@
 [[시작해요 언리얼 2주차 (모델링)]](https://youtu.be/5t_bfpyk18c)  
 [[시작해요 언리얼 3주차 (오브젝트 블루프린트 무브)]](https://youtu.be/5t_bfpyk18c)  
 [[시작해요 언리얼 4주차 (오브젝트 블루프린트 특수한 무브)]](https://youtu.be/5t_bfpyk18c)  
-
-
