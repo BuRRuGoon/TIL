@@ -1,4 +1,4 @@
-# DEATH FIRST SEARCH  
+# UNARY
 (https://www.codingame.com/ide/puzzle/unary)
 
 ## 내가 푼 방식

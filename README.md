@@ -284,10 +284,16 @@
 [C#_11726](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON_OTHER/DP/C%23_11726.md)  
 
 
-### CondinGame - PUZZLE
+### CodinGame - PUZZLE
 #### Easy
-[TEMPERATURE](CodinGame/Puzzle/TEMPERATURES.md)
+[TEMPERATURE](CodinGame/Puzzle/TEMPERATURES.md)  
 [UNARY](CodinGame/Puzzle/UNARY.md)
+[Mars_Lander_EP1](CodinGame/Puzzle/Mars_Lander_EP1.md)
+[Horse_Racing_Duals](CodinGame/Puzzle/Horse_Racing_Duals.md)
 
 #### Medium
-[DEATH_FIRST_SEARCH_EP1](CodinGame/Puzzle/DEATH_FIRST_SEARCH_EP1.md)
+[DEATH_FIRST_SEARCH_EP1](CodinGame/Puzzle/DEATH_FIRST_SEARCH_EP1.md)  
+
+### CodinGame - Optimize
+#### 리버스팩토어링
+[CodinGame_Sponsored_Contest](CodinGame/Optimize/CodinGame_Sponsored_Contest.md)

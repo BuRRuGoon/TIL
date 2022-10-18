@@ -1,4 +1,4 @@
-# DEATH FIRST SEARCH  
+# TEMPERATURES 
 (https://www.codingame.com/training/easy/temperatures)
 
 ## 내가 푼 방식
