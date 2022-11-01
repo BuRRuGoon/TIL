@@ -75,6 +75,7 @@
 [C#_3052](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_3052.md)  
 [C#_4344](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_4344.md)  
 [C#_8958](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_8958.md)  
+[C#_10818](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_10807.md)  
 [C#_10818](https://github.com/BuRRuGoon/TIL/blob/main/CodingTest/BAEKJOON04/C%23_10818.md)  
 
 ### BAEKJOON05 - 함수
