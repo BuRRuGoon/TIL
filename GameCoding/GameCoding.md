@@ -11,7 +11,6 @@
 [[Pixlr(웹 사진 에디터)]](https://pixlr.com/kr/e/)  
 [[NovelAI (이미지 생성 AI)]](https://novelai.net/)
 [[Mp3cut(간단한 사운드 편집)]](https://mp3cut.net/ko/)  
-[[Z-Library(무료 ebook 도서관)]](https://ko.z-lib.org/)  
 [[리소스뱅크(게임 리소스 공유 플랫폼)]](https://resourcebank.or.kr/index.php)  
 [[오픈튜토리얼스(무료 강의 모음)]](https://www.opentutorials.org/)  
 [[언리얼엔진5 스터디(일본 언리얼엔진 학습 지원)]](https://ue5study.com/)  
